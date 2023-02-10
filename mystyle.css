@@ -5,6 +5,14 @@ h1{
   border-top-color: coral;
 }
 
+h2{
+  font-size: 30px;
+}
+
+h3{
+  font-size: 20px;
+}
+
 /* * {
   margin: 0;
 } */
